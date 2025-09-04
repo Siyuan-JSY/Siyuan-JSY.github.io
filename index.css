@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://cdn.prod.website-files.com/6523eb77485a7697ac17f07d/654397d1d8ae1a1f5934322b_654396a4c3c0c8645810e6f3_u-miami-homecoming.webp);
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 400%;
+    color: aqua;
+    text-align: center;
+    background-color: pink;
+    margin-top: 100px;
+
+}
+h1:hover{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    color: black;
+    text-align: center;
+    background-color: orange;
+    margin-top: 100px;
+    border-radius: 50px;
+
+
+
+
+}
